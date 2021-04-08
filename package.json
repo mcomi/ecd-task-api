@@ -1,5 +1,5 @@
 {
-  "name": "api edc task",
+  "name": "api-edc-task",
   "version": "1.0.0",
   "description": "Api Project for EDC Task",
   "main": "index.js",
