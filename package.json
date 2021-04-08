@@ -13,7 +13,7 @@
     "url": "git+https://github.com/mcomi/ecd-task-api.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Manuel Comi",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
